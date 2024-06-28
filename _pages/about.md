@@ -2,29 +2,47 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/60.jpg'
+image: '/images/me.jpeg'
 ---
 
-Hi, my name is Robert Wilson. Sin tantum modo ad indicia veteris memoriae virtute cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam. Serpere genere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari disseretur inter.
+### About Me
 
-![Time to think]({{site.baseurl}}/images/501.jpg)
-*Minimalism / [Unsplash](https://unsplash.com/)*
+👾 **I LOVE Reverse Engineering!!**
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. An, partus ancillae sitne in fructu disseretur sine reprehensione iracundia.
+I'm passionate about delving into the intricacies of software and hardware, uncovering their secrets, and understanding how they work from the inside out. Reverse engineering is not just a hobby for me; it's a way of life.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/900.jpg">
-    <img src="/images/901.jpg">
-    <img src="/images/902.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+☕ **Coffee keeps me alive**
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine pertectam reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente nona civitatis.
+My constant companion on this journey is a good cup of coffee. It's the fuel that powers my late-night coding sessions and deep dives into complex problems.
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+🧩 **I like attending CTF events to further my knowledge**
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim fitus dissolutum sit, id esse sine sensu, utilitas quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio.
+Capture the Flag (CTF) events are my playground. They challenge me, push my limits, and help me continuously expand my knowledge and skills in cybersecurity.
 
-<hr>
+---
+
+### Certifications 📜
+
+- **Gray Hat Academy** | IOT Firmware Exploitation
+- **eLearnSecurity** | Junior Penetration Tester (eJPT)
+- **TCM** | Practical Malware Analysis & Triage (PMAT)
+- **CompTIA** | Security+ (Sec+)
+- **Blackhat Training:**
+  - Reverse Engineering Firmware with Ghidra
+  - The Shellcode Lab
+  - Assessing and Exploiting Control Systems and IIoT
+- **Defcon Workshops:**
+  - House of Heap Exploitation
+  - A Practical Approach to Emulating Malware
+
+---
+
+### Favorite CTF's
+
+- **Fireye Flareon**
+- **Sans Holiday Hack Challenge 'Kringlecon'**
+- **NahamCon**
+
+---
+
+Join me on my journey as I explore the fascinating world of reverse engineering, share my experiences from CTF events, and delve into the latest in cybersecurity. Whether you're a fellow enthusiast or just curious about what makes the digital world tick, there's something here for everyone.
