@@ -21,10 +21,14 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
 
 ### Certifications 📜
 
-- **Gray Hat Academy** IOT Firmware Exploitation
-- **eLearnSecurity** Junior Penetration Tester (eJPT)
-- **TCM** Practical Malware Analysis & Triage (PMAT)
-- **CompTIA** | Security+ (Sec+)
+- **Gray Hat Academy**
+  - IOT Firmware Exploitation
+- **eLearnSecurity**
+  - Junior Penetration Tester (eJPT)
+- **TCM** 
+  - Practical Malware Analysis & Triage (PMAT)
+- **CompTIA**
+  - Security+ (Sec+)
 - **Blackhat Training:**
   - Reverse Engineering Firmware with Ghidra
   - The Shellcode Lab
@@ -38,5 +42,5 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
 ### Favorite CTF's 💻
 
 - [**Fireye Flareon**](https://flare-on.com/)
-- **Sans Holiday Hack Challenge 'Kringlecon'**
-- **NahamCon**
+- [**Sans Holiday Hack Challenge 'Kringlecon'**](https://www.sans.org/mlp/holiday-hack-challenge-2023/)
+- [**NahamCon**](https://www.nahamcon.com/)
