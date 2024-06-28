@@ -1,8 +1,8 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Aaron
+url: https://binarybobcat.github.io/
 paginate: 1
-baseurl: ""
+baseurl: "https://binarybobcat.github.io/"
 permalink: pretty
 
 # Gems
