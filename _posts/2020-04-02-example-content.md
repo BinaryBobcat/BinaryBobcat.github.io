@@ -1,3 +1,27 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Disclaimer:
+The information and techniques discussed in this thread are intended for educational and research purposes only. It is essential to obtain proper authorization and consent before engaging in any reverse engineering, malware analysis, or related activities. I do not condone nor endorse any illegal or unethical behavior. Any actions taken based on the information provided are at your own risk, and I bear no responsibility for any consequences. Always adhere to applicable laws, regulations, and ethical guidelines when conducting research or experimentation in this domain.**
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+{: .message }
+
+# Introduction
+In the realm of reverse engineering, every investigation is a voyage into the unknown, a journey of discovery fueled by energy drinks, curiosity and guided by expertise. Our story begins with a simple question: what lies beneath the surface of a seemingly innocuous PDF file? To find the answer, we embarked on a quest through the digital landscape, navigating the intricacies of malware analysis with determination and precision.
+
+# Finding our sample
+
+I embarked on a quest to procure a sample of PDF malware. Leveraging the resources of Bazaar, I refined the search query, filtering specifically for 'file_type:pdf', to streamline our hunt for a malicious PDF file.
+
+https://bazaar.abuse.ch/browse.php
+
+![[Pasted image 20240515121757.png]]
+
+
+
+
+
+
+
 ---
 layout: post
 title: Example content
