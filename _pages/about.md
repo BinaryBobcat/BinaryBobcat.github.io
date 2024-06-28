@@ -5,8 +5,6 @@ permalink: /about/
 image: '/images/me.jpeg'
 ---
 
-### About Me
-
 👾 **I LOVE Reverse Engineering!!**
 
 I'm passionate about delving into the intricacies of software and hardware, uncovering their secrets, and understanding how they work from the inside out. Reverse engineering is not just a hobby for me; it's a way of life.
@@ -23,9 +21,9 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
 
 ### Certifications 📜
 
-- **Gray Hat Academy** | IOT Firmware Exploitation
-- **eLearnSecurity** | Junior Penetration Tester (eJPT)
-- **TCM** | Practical Malware Analysis & Triage (PMAT)
+- **Gray Hat Academy** IOT Firmware Exploitation
+- **eLearnSecurity** Junior Penetration Tester (eJPT)
+- **TCM** Practical Malware Analysis & Triage (PMAT)
 - **CompTIA** | Security+ (Sec+)
 - **Blackhat Training:**
   - Reverse Engineering Firmware with Ghidra
@@ -37,12 +35,8 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
 
 ---
 
-### Favorite CTF's
+### Favorite CTF's 💻
 
-- **Fireye Flareon**
+- [**Fireye Flareon**](https://flare-on.com/)
 - **Sans Holiday Hack Challenge 'Kringlecon'**
 - **NahamCon**
-
----
-
-Join me on my journey as I explore the fascinating world of reverse engineering, share my experiences from CTF events, and delve into the latest in cybersecurity. Whether you're a fellow enthusiast or just curious about what makes the digital world tick, there's something here for everyone.
