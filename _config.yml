@@ -2,7 +2,7 @@
 title: Aaron
 url: https://binarybobcat.github.io/
 paginate: 1
-baseurl: "https://binarybobcat.github.io/"
+baseurl: ""
 permalink: pretty
 
 # Gems
