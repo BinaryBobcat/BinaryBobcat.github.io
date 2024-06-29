@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: ~# Aaron
-logo: '/images/me.jpeg' # You can add own logo. For example '/images/logo.png'.
+logo: # You can add own logo. For example '/images/logo.png'.
 description: ''
 
 
