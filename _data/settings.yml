@@ -22,15 +22,15 @@ menu-settings:
 #-------------------------------
 # Author Settings
 author:
-  name: Robert Wilson
+  name: ~# Aaron
   avatar: '/images/15.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Robert Wilson
-  description: Thoughts, stories and ideas.
+  title: Aaron
+  description: Blog of my journey.
   image: '/images/01.jpg'
 
 
