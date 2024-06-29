@@ -3,7 +3,7 @@ layout: post
 title:  Flare-on 1 Challenge 1
 description: Embark on an adventure with me as I dive into a challenge from the FireEye Flare-On CTF. In this post, we'll go over the first challenge from Flare-on 1. I'll share my methodologies and the tools I use to navigate these intricate digital puzzles, offering insights and practical tips for anyone from beginners to seasoned pros. So, grab a coffee and let's explore the excitement of Flare-On together!
 date:   2024-06-29 18:01:35 +0300
-image:  '/images/cartoon-malware-in-the-wild.jpeg'
+image:  '/images/flareon1_prize.png'
 tags:   [RE, CTF, Flare-on]
 ---
 
