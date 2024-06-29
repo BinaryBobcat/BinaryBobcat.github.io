@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: ~# Aaron
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/me.jpeg' # You can add own logo. For example '/images/logo.png'.
 description: ''
 
 
@@ -37,8 +37,8 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: deadbeefx90@gmail.com # Add your email for contact form
+  description: If you have any questions, comments, or would like to discuss anything related to cybersecurity, reverse engineering, malware analysis, or CTF events, please feel free to reach out! I’m always excited to connect with fellow enthusiasts and professionals. You can contact me using the form below, and I will do my best to respond as soon as possible. Looking forward to hearing from you! # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
