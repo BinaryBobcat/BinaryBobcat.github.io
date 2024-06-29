@@ -33,8 +33,8 @@ Inside this function, there are three for loops generating strings. Let's set a 
 
 ![]({{site.baseurl}}/images/flare-on1-chall1-pic3.png)
 
-The string being built for `dat_secret` appears to be the flag, while the other two strings, `text2` and `text3`, seem to further mangle `dat_secret` until the final result is displayed as an unreadable string.
+The string `text1` is being built from `dat_secret` which appears to be the flag, while the other two strings, `text2` and `text3`, seem to further mangle each other until the final result is displayed as an unreadable string.
 
 That was a straightforward challenge! 😂
 
-> Flag: 3rmahg3rd.b0b.d0ge@flare-on.com
+**Flag:** 3rmahg3rd.b0b.d0ge@flare-on.com
