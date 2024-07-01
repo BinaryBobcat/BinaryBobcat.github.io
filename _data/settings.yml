@@ -29,7 +29,11 @@ author:
 hero:
   title: Aaron's Blog
   description: Blog of my journey.
+<<<<<<< HEAD
   image: '/images/605.jpg'
+=======
+  image: '/images/605.jpg'
+>>>>>>> fceec7b04cbe111fe5398f3f95dc7a95fb4cf7d9
 
 
 #-------------------------------
