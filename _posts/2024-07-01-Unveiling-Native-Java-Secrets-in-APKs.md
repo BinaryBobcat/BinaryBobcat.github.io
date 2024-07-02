@@ -28,9 +28,9 @@ In the FlagstaffHill class, the getFlag() function constructs a password by tran
 So, entering "alphabetsoup" should reveal the flag, right? Not exactly. It merely returns that string, and the MainActivity class sets this value as text. The challenge's hint, "call it," led me to explore the function "cardamom()" in FlagstaffHill().
 
 ## Alternate path
-In this situation, many, including myself, would patch the Java class to call cardamom() with "alphabetsoup" as the parameter, which indeed yields the flag. While this does give you the flag, it drove me crazy because I wanted to understand why the public static native String cardamom() function is so secretive. What is the cardamom() function doing that allows us to get the flag?
+In this situation, many, including myself, would patch the Java class to call `cardamom()` with "alphabetsoup" as the parameter, which indeed yields the flag. While this does give you the flag, it drove me crazy because I wanted to understand why the "public static native String cardamom()" function is so secretive. What is the `cardamom()` function doing that allows us to get the flag?
 
-In Jadx, you can't simply click on the function to see the code being executed. We'll figure out why that is in a moment. Also, who really enjoys signing APKs and dealing with Android Studio? Let's find out what this function does.
+In Jadx, you can't simply click on the function to see the code being executed. We'll figure out why that is in a moment. Also, who really enjoys signing APKs and dealing with Android Studio 😅? Let's find out what this function does.
 
 A bit of googling around for what the `native` in 'public static native' represents resulted in some interesting findings:
 
