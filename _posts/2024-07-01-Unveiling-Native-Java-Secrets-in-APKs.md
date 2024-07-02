@@ -7,10 +7,9 @@ image:  '/images/unveiling-native-java-secrets-in-apks-picture.jpeg'
 tags:   [RE, CTF, picoCTF, Java, APK]
 ---
 
-
 # Introduction
 
-This is a write-up for the picoCTF challenge "Droids 4." Classified as a hard reverse engineering task, the description prompts: "Reverse the pass, patch the file, get the flag." In this blog post, I will demonstrate an alternative approach that deviates from the intended solution.
+This is a write-up for the picoCTF challenge "Droids 4". Classified as a hard reverse engineering task, the description prompts: "Reverse the pass, patch the file, get the flag." In this blog post, I will demonstrate an alternative approach that deviates from the common solution.
 
 # Write-up
 
@@ -34,7 +33,7 @@ May people in this situation, even myself!, would patch the Java class to call c
 A bit of googling around for what the native in 'public static native' represents resulted in some interesting findings. 
 
 > **Simply put, this is a non-access modifier that is used to access methods implemented in a language other than Java like C/C++**.
-
+> 
 > <cite> https://www.baeldung.com/java-native </cite>
 
 Interesting, this function must be written in C or C++ and compiled, then added into this java program. This makes sense why Jadx isn't able to view it because it is a Java decompiler and doesn't have the capability of disassembling and viewing binary opcodes.
@@ -43,7 +42,7 @@ Let's use Binwalk to extract all files. Binwalk successfully extracts various di
 
 ![]({{site.baseurl}}/images/Pasted image 20240701210023.png)
 
-I'll use "/lib/x86/libhellojni.so" to avoid the headache of ARM assembly XD.
+I'll use "/lib/x86/libhellojni.so" to avoid the headache of ARM assembly 😂
 
 ```shell
 libhellojni.so: ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, BuildID[sha1]=0b26bd0857c9b78695535273c86549b2c3da8512, stripped
