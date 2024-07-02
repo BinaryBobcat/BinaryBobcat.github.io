@@ -68,7 +68,7 @@ Continuing in the cardamom function, if chervil() returns valid, we call pepper(
 
 ![]({{site.baseurl}}/images/Pasted image 20240701213113.png)
 
-This is so much fun :)
+This is so much fun 🙂
 
 Lines 8 and 9 call common C library functions, strdup (duplicates a string) and strlen (calculates the length of a string). We then reach the unscramble() function, which takes four parameters: DAT_00011c5c (a pointer to a byte sequence in the data section), 0x1f (the length of DAT_00011c5c), the duplicated user input, and its length.
 
