@@ -37,6 +37,14 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
   - House of Heap Exploitation
   - A Practical Approach to Emulating Malware
 
+### CTF Rankings
+- Official Defcon CTF - Mayhem Industries, Placed 2nd
+- Boeing’s ARINC429 CTF at DEFCON’s Aerospace Village, Placed 1st
+- FireEye Flareon10 RE CTF, placed top 5% (249th/4767)
+- FireEye Flareon9 RE CTF, placed top 12%
+- Hack-a-sat3 CTF, placed top 9%
+- Sans Holiday Hack Challenge 2022, 2023 Finisher
+
 ### Favorite CTF's 💻
 
 - [**Fireye Flareon**](https://flare-on.com/)
