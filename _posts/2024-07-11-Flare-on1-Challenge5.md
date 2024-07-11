@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Flare-on 1 Challenge 4
+title:  Flare-on 1 Challenge 5
 description: In this blog post, I explore the 5get_it challenge from the FireEye Flare-On series, where I used Ghidra to dissect a 32-bit Windows DLL.
 date:   2024-07-11 13:32:35 +0300
 image:  '/images/flareon1_prize.png'
