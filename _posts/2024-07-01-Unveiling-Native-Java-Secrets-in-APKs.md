@@ -5,6 +5,7 @@ description: Join me as we tackle the picoCTF challenge 'Droids 4', exploring na
 date:   2024-06-29 18:01:35 +0300
 image:  '/images/unveiling-native-java-secrets-in-apks-picture.jpeg'
 tags:   [RE, CTF, picoCTF, Java, APK]
+featured: true
 ---
 
 # Introduction
