@@ -3,7 +3,7 @@ layout: post
 title:  PicoCTF WebNet1
 description: In this write-up for the picoCTF challenge "WebNet1", we decrypt TLS traffic using a provided private key. Follow along as we use Wireshark to extract decrypted HTTP files and uncover the flag through analysis.
 date:   2024-07-16 21:29:35 +0300
-image:  '/images/WebNet1-1.png'
+image:  '/images/WebNet1-vulture.jpeg'
 tags:   [CTF, Forensics, picoCTF]
 ---
 
@@ -44,7 +44,7 @@ Now, let's open `second.html` since the other files appear to be supporting data
 
 We see the HTML, CSS, and image populated on the page. Scanning through the HTML and CSS is quick because they are ASCII printable and we can use the `strings` command. Next, we examine `vulture.jpg`.
 
-Next, we examine `vulture.jpg`. With image files, I usually check for steganography first. One of my go-to tools is (Stegsolve)[https://github.com/Giotino/stegsolve]. In this case, I started with a hexdump to view the metadata inside the file and discovered the flag. It's always good to check the metadata first before diving into more complex steganographic analysis.
+Next, we examine `vulture.jpg`. With image files, I usually check for steganography first. One of my go-to tools is [Stegsolve](https://github.com/Giotino/stegsolve). In this case, I started with a hexdump to view the metadata inside the file and discovered the flag. It's always good to check the metadata first before diving into more complex steganographic analysis.
 
 ```shell
 hexdump -C vulture.jpg | less
