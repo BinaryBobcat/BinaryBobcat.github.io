@@ -2,7 +2,7 @@
 layout: post
 title:  PicoCTF WebNet1
 description: In this write-up for the picoCTF challenge "WebNet1", we decrypt TLS traffic using a provided private key. Follow along as we use Wireshark to extract decrypted HTTP files and uncover the flag through analysis.
-date:   2024-05-14 15:01:35 +0300
+date:   2024-07-16 21:29:35 +0300
 image:  '/images/WebNet1-1.png'
 tags:   [CTF, Forensics, picoCTF]
 ---
