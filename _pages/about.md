@@ -51,17 +51,21 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
 - [**Sans Holiday Hack Challenge 'Kringlecon'**](https://www.sans.org/mlp/holiday-hack-challenge-2023/)
 - [**NahamCon**](https://www.nahamcon.com/)
 
+
+
 ## Disclaimer
 The information and techniques discussed on this blog are intended for educational and research purposes only. All thoughts and opinions expressed here are my own and may not reflect those of my employer or any other entity unless explicitly stated. 
 
 It is essential to obtain proper authorization and consent before engaging in any reverse engineering, malware analysis, or related activities. This website and its content are provided "as is", without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. I do not condone nor endorse any illegal or unethical behavior. Any actions taken based on the information provided are at your own risk, and I bear no responsibility for any consequences. Always adhere to applicable laws, regulations, and ethical guidelines when conducting research or experimentation in this domain.
+
+
 
 ## Copyright Notice
 © 2024 BinaryBobcat (Aaron)
 
 All content on this blog, including but not limited to articles, write-ups, research, images, and other multimedia, is protected under copyright law. You are free to use, share, and adapt the material for non-commercial purposes, provided that proper credit is given to the original author.
 
-### Usage Guidelines:
+#### Usage Guidelines:
 
 - **Attribution**: Please attribute the original work to BinaryBobcat (Aaron) and include a link to the original content.
 - **Non-Commercial Use**: The material is available for non-commercial use only. If you wish to use any content for commercial purposes, please contact the author for permission.
