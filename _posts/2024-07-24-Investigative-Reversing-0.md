@@ -32,7 +32,7 @@ mystery: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically li
 
 Next, we’ll open the binary in IDA Pro and disassemble the program. Upon loading the binary, we’ll examine the `main` function. The program is relatively small, and within the `main` function, we observe that it attempts to open a file named `flag.txt` for reading. Additionally, the program tries to open `mystery.png`—the image file we downloaded—for appending.
 
-> **Tech Tip:** When working with library calls like `fopen()`, it's useful to refer to the man pages in Linux to understand the arguments and return values. For example, you can use the command `$ man fopen` to access detailed documentation about the `fopen` function.
+**Tech Tip:** When working with library calls like `fopen()`, it's useful to refer to the man pages in Linux to understand the arguments and return values. For example, you can use the command `$ man fopen` to access detailed documentation about the `fopen` function.
 
 ```c
 int __fastcall main(int argc, const char **argv, const char **envp)
