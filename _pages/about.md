@@ -40,7 +40,7 @@ Capture the Flag (CTF) events are my playground. They challenge me, push my limi
   - A Practical Approach to Emulating Malware
 
 ### CTF Rankings
-- Official Defcon CTF | ICS Village 2024, **1st** place
+- Official Defcon CTF - ICS Village 2024, **1st** place
 - Official Defcon CTF - Mayhem Industries, Placed 2nd
 - Boeing’s ARINC429 CTF at DEFCON’s Aerospace Village, Placed 1st
 - FireEye Flareon10 RE CTF, placed top 5% (249th/4767)
